@@ -1,0 +1,2 @@
+# Code Refactor Original Code
+The code in this `<Develop>` directory is the original cloned code. This code has been provided for comparison purposes. Feel free to see how I've refactored this code by comparing the index.html and style.css files to their respective files in the root directory of this repository. 
